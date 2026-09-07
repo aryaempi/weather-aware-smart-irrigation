@@ -1,0 +1,117 @@
+PROPRIETARY SOURCE-AVAILABLE LICENSE
+Version 1.0, 7 September 2026
+
+Copyright (c) 2026 Arya Masoudpay and Kiarash Zangooei.
+All rights reserved.
+
+1. PURPOSE AND STATUS
+
+This license applies to the software, firmware, documentation, data,
+designs, and other original material in this repository (the "Material").
+The Material is made visible for review only. The Material is not open-source
+software, free software, freeware, or public-domain material.
+
+2. NO GENERAL LICENSE GRANT
+
+Possession of, access to, or viewing of the Material does not grant you a
+copyright, patent, trademark, trade-secret, database, design, or other
+intellectual-property license. All rights not expressly granted in a separate
+written agreement signed by the applicable copyright holder are reserved.
+
+Where the Material is hosted on GitHub or another service, you may exercise
+only the minimum rights that the service terms require to provide its normal
+viewing and repository functions. Those service-specific rights do not grant
+permission to use the Material outside those functions.
+
+3. PROHIBITED ACTS
+
+Unless you first obtain express written permission from the applicable
+copyright holder, you must not, in whole or in part:
+
+a. use, execute, compile, flash, install, operate, host, or deploy the Material;
+
+b. copy, clone, download, reproduce, publish, display, distribute, transmit,
+share, mirror, archive, or make the Material available to another person,
+except where a hosting service performs an act that its mandatory terms
+expressly permit;
+
+c. modify, adapt, translate, port, arrange, transform, reverse engineer, or
+prepare a derivative work from the Material;
+
+d. merge, link, embed, import, or incorporate the Material into other software,
+firmware, hardware, documentation, research, teaching material, products, or
+services;
+
+e. sell, rent, lease, sublicense, monetize, commercialize, or otherwise exploit
+the Material;
+
+f. use the Material to provide a service, operate equipment, control an
+irrigation system, conduct a field trial, or support a production process;
+
+g. use the Material or its protected expression to train, fine-tune, evaluate,
+benchmark, test, or supply data to an artificial-intelligence or machine-
+learning system;
+
+h. remove, hide, alter, or misrepresent a copyright notice, authorship notice,
+license notice, provenance record, or access restriction; or
+
+i. state or imply that a copyright holder endorses you or your work.
+
+4. NO PATENT OR TRADEMARK RIGHTS
+
+This license does not grant a patent license. It also does not grant permission
+to use a name, logo, trade name, service mark, or trademark of a copyright
+holder or project contributor.
+
+5. THIRD-PARTY MATERIAL
+
+Third-party libraries, tools, services, trademarks, and other material remain
+subject to their own terms and licenses. This license applies only to rights
+that the applicable copyright holder can license. It does not restrict a right
+that applicable law or a third-party license gives you independently.
+
+6. REQUESTS FOR PERMISSION
+
+You can request a separate written license from the repository owner or the
+applicable copyright holder. Permission is valid only when the applicable
+copyright holder gives it in a signed written agreement. Silence, access to the
+repository, discussion, an issue response, or acceptance of a contribution is
+not permission.
+
+7. CONTRIBUTIONS
+
+No person receives a right to submit or use a contribution under this license.
+A contribution does not change the ownership or license status of the Material.
+The project owner can require a separate contributor agreement before accepting
+a contribution.
+
+8. TERMINATION
+
+Any permission that a copyright holder grants under this license terminates
+automatically when you breach a condition of this license. On termination, you
+must stop all prohibited activity and destroy every unauthorized copy in your
+possession or control, to the extent that applicable law permits.
+
+9. NO WARRANTY
+
+THE MATERIAL IS PROVIDED "AS IS" AND "AS AVAILABLE." TO THE MAXIMUM EXTENT
+PERMITTED BY LAW, THE COPYRIGHT HOLDERS AND CONTRIBUTORS DISCLAIM ALL
+WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY. THIS DISCLAIMER INCLUDES
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE,
+NON-INFRINGEMENT, ACCURACY, SAFETY, RELIABILITY, AND FITNESS FOR CONTROL OF
+PHYSICAL EQUIPMENT.
+
+10. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR IS
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL,
+OR OTHER DAMAGES. THIS LIMITATION INCLUDES LOSS OF DATA, LOSS OF PROFITS,
+EQUIPMENT DAMAGE, CROP LOSS, WATER DAMAGE, PERSONAL INJURY, OR BUSINESS
+INTERRUPTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+11. ENFORCEMENT AND REMEDIES
+
+Unauthorized use can cause harm for which money alone is not an adequate
+remedy. Subject to applicable law, a copyright holder can seek injunctive or
+equitable relief in addition to any other available remedy. A failure or delay
+in enforcement is not a waiver of any right.
