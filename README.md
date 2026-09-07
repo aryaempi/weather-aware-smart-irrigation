@@ -544,7 +544,7 @@ The associated manuscript uses the following title and author list:
 
 ```text
 An Embedded Industrial Irrigation System with Weather-Integrated Intelligent Scheduling
-Kiarash Zangooei, Arya Masoodpay, and Hamid Reza Ghaeini
+Kiarash Zangooei, Arya Masoudpay, and Hamid Reza Ghaeini
 2026 manuscript
 ```
 
